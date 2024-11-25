@@ -1,0 +1,31 @@
+.project-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  border-radius: 12px;
+  font-size: 20px;
+}
+.project-image {
+  width: 100%;
+}
+.project-heading-container {
+  display: flex;
+  justify-content: space-between;
+}
+.project-heading {
+  color: #1e293b;
+}
+.project-duration-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #1e293b;
+}
+.project-url {
+  color: #0967d2;
+  text-decoration: none;
+  font-weight: 600;
+}

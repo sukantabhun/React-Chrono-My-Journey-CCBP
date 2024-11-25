@@ -1,0 +1,36 @@
+.timeline-container {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.timeline-internal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.timeline-heading-1 {
+  font-size: 18px;
+  color: #2b237c;
+  text-align: center;
+}
+.timeline-heading-2 {
+  font-size: 26px;
+  color: #2b237c;
+}
+.timeline-heading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.timeline-chrono-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 24px;
+}
